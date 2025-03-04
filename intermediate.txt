@@ -1,0 +1,54 @@
+
+Time Slot 0:
+  Can be scheduled (Adder): Node 9 
+  Can be scheduled (Multiplier): Node 0 Node 1 Node 5 Node 7 
+  Scheduled: Node 0 Node 1 Node 9 
+  In progress: Node 0 Node 1 Node 9 
+
+Time Slot 1:
+  Can be scheduled (Adder): Node 10 
+  Can be scheduled (Multiplier): None
+  Scheduled: Node 10 
+  In progress: Node 0 Node 1 Node 10 
+
+Time Slot 2:
+  Can be scheduled (Adder): None
+  Can be scheduled (Multiplier): Node 2 Node 5 Node 7 
+  Scheduled: Node 2 Node 5 
+  In progress: Node 2 Node 5 
+
+Time Slot 3:
+  Can be scheduled (Adder): None
+  Can be scheduled (Multiplier): None
+  Scheduled: None
+  In progress: Node 2 Node 5 
+
+Time Slot 4:
+  Can be scheduled (Adder): Node 3 
+  Can be scheduled (Multiplier): Node 6 Node 7 
+  Scheduled: Node 3 Node 6 Node 7 
+  In progress: Node 3 Node 6 Node 7 
+
+Time Slot 5:
+  Can be scheduled (Adder): None
+  Can be scheduled (Multiplier): None
+  Scheduled: None
+  In progress: Node 6 Node 7 
+
+Time Slot 6:
+  Can be scheduled (Adder): Node 4 Node 8 
+  Can be scheduled (Multiplier): None
+  Scheduled: Node 4 
+  In progress: Node 4 
+
+Time Slot 7:
+  Can be scheduled (Adder): Node 8 
+  Can be scheduled (Multiplier): None
+  Scheduled: Node 8 
+  In progress: Node 8 
+
+Time Slot 8:
+  Can be scheduled (Adder): None
+  Can be scheduled (Multiplier): None
+  Scheduled: None
+  In progress: None

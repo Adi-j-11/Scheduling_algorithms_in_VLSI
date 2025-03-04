@@ -1,0 +1,12 @@
+Scheduled Operations:
+Node 0 (Operation Type: 2) -> Scheduled at Time 0, Ends at Time 2
+Node 1 (Operation Type: 2) -> Scheduled at Time 0, Ends at Time 2
+Node 2 (Operation Type: 2) -> Scheduled at Time 2, Ends at Time 4
+Node 3 (Operation Type: 1) -> Scheduled at Time 4, Ends at Time 5
+Node 4 (Operation Type: 1) -> Scheduled at Time 6, Ends at Time 7
+Node 5 (Operation Type: 2) -> Scheduled at Time 2, Ends at Time 4
+Node 6 (Operation Type: 2) -> Scheduled at Time 4, Ends at Time 6
+Node 7 (Operation Type: 2) -> Scheduled at Time 4, Ends at Time 6
+Node 8 (Operation Type: 1) -> Scheduled at Time 7, Ends at Time 8
+Node 9 (Operation Type: 1) -> Scheduled at Time 0, Ends at Time 1
+Node 10 (Operation Type: 1) -> Scheduled at Time 1, Ends at Time 2
